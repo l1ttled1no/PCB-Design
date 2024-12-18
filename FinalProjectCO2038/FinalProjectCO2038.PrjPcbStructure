@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=3.3VRegulator.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3.3VRegulator.SchDoc|FileName=CurrentSensor.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3.3VRegulator.SchDoc|FileName=ESP32-WROM-32.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3.3VRegulator.SchDoc|FileName=HighCurrentLED.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3.3VRegulator.SchDoc|FileName=RS-485.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=3.3VRegulator.SchDoc|FileName=SlideSwitchMCU.SchDoc|SheetNumber= 
